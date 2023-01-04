@@ -3,4 +3,4 @@
 - [x] Commit and Push
 - [x] Clone
 - [x] Making branch
-- [ ] Pull request
+- [x] Pull request
