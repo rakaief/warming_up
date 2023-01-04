@@ -2,5 +2,5 @@
 - [x] Creating repository from local machine
 - [x] Commit and Push
 - [x] Clone
-- [ ] Making bran
+- [x] Making branch
 - [ ] Pull request
